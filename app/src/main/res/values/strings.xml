@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="monday">Monday</string>
+    <string name="clear">Clear</string>
+    <string name="degree_20">20</string>
+    <string name="degree_21">21</string>
+    <string name="tomorrow_txt">Tomorrow</string>
+    <string name="current_date">June 19</string>
+    <string name="current_wind_speed">Wind: %1$s NW</string>
+    <string name="current_pressure">Pressure: %1$s hpa</string>
+    <string name="current_humidity">Humidity: %1$s </string>
+    <string name="max_temp_txt">%1$s%2$s</string>
+    <string name="min_temp_txt">20</string>
+    <string name="current_day_txt">Today, June 19</string>
+
+    <string name="api_not_error">Api was not found error code: %1$s</string>
+
+    <!--Icons-->
+    <string name="ic_clear">01n</string>
+    <string name="ic_light_clouds">02n</string>
+    <string name="ic_cloudy">03n</string>
+    <string name="ic_cloudy_4">04n</string>
+    <string name="ic_light_rain">09n</string>
+    <string name="ic_rain">10n</string>
+    <string name="ic_storm">11n</string>
+    <string name="ic_snow">13n</string>
+    <string name="ic_fog">50n</string>
+    <string name="day_today">Today, %1$s</string>
+
+</resources>
